@@ -1,0 +1,28 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="app">
+    <ion-img class="ion-margin-start" src="./assets/img/logo-header.svg" alt="" slot="start"></ion-img>
+    <ion-title>
+      <ion-label class="ion-text-uppercase title">Tapas</ion-label>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <!-- <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Tapas</ion-title>
+    </ion-toolbar>
+  </ion-header> -->
+
+  <ion-list *ngIf="tapasService?.tapas?.length">
+    <ion-item *ngFor="let tapa of tapasService?.tapas">
+      <ion-label>
+        <ion-text>
+          <h1 class="ion-text-wrap">{{tapa.name}}</h1>
+        </ion-text>
+
+        <p *ngIf="tapa?.price?.one">Ración: {{tapa.price.one | currency:'EUR':'symbol'}}<span *ngIf="tapa?.price?.half"> / Media: {{tapa.price.half | currency:'EUR':'symbol'}}</span></p>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+</ion-content>

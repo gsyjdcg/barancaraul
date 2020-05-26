@@ -1,0 +1,236 @@
+[
+    {
+        "id": 1,
+        "nombre": "Filetes de cerdo",
+        "categoria": "Segundos platos",
+        "precio": 8.50
+    },
+    {
+        "id": 2,
+        "nombre": "Filetes de pollo",
+        "categoria": "Segundos platos",
+        "precio": 8.50
+    },
+    {
+        "id": 3,
+        "nombre": "Higaditos de pollo al ajillo",
+        "categoria": "Segundos platos",
+        "precio": 8
+    },
+    {
+        "id": 4,
+        "nombre": "Albóndigas con tomate",
+        "categoria": "Segundos platos",
+        "precio": 8
+    },
+    {
+        "id": 5,
+        "nombre": "Chorizo al vino",
+        "categoria": "Segundos platos",
+        "precio": 8
+    },
+    {
+        "id": 6,
+        "nombre": "Taco de lomo en manteca",
+        "categoria": "Segundos platos",
+        "precio": 8.50
+    },
+    {
+        "id": 7,
+        "nombre": "Solomillo encebollado, pimienta a roquefort",
+        "categoria": "Segundos platos",
+        "precio": 12
+    },
+    {
+        "id": 8,
+        "nombre": "Secreto ibérico",
+        "categoria": "Segundos platos",
+        "precio": 12
+    },
+    {
+        "id": 9,
+        "nombre": "Carrillada ibérica al Pedro Ximénez",
+        "categoria": "Segundos platos",
+        "precio": 11
+    },
+    {
+        "id": 10,
+        "nombre": "Rabo de toro en su salsa",
+        "categoria": "Segundos platos",
+        "precio": 11
+    },
+    {
+        "id": 11,
+        "nombre": "Churrasco de cerdo",
+        "categoria": "Segundos platos",
+        "precio": 9
+    },
+    {
+        "id": 12,
+        "nombre": "Croquetas caseras",
+        "categoria": "Segundos platos",
+        "precio": 9.50
+    },
+    {
+        "id": 13,
+        "nombre": "Flamenquín casero",
+        "categoria": "Segundos platos",
+        "precio": 9.50
+    },
+    {
+        "id": 14,
+        "nombre": "San Jacobo casero",
+        "categoria": "Segundos platos",
+        "precio": 9.50
+    },
+    {
+        "id": 15,
+        "nombre": "Chuletitas de cordero",
+        "categoria": "Segundos platos",
+        "precio": 12
+    },
+    {
+        "id": 16,
+        "nombre": "Conejo al ajillo",
+        "categoria": "Especialidades de la casa",
+        "precio": 8.50
+    },
+    {
+        "id": 17,
+        "nombre": "Perdiz encebollada",
+        "categoria": "Especialidades de la casa",
+        "precio": 14
+    },
+    {
+        "id": 18,
+        "nombre": "Venao en su salsa",
+        "categoria": "Especialidades de la casa",
+        "precio": 12
+    },
+    {
+        "id": 19,
+        "nombre": "Jabalí en su salsa",
+        "categoria": "Especialidades de la casa",
+        "precio": 12
+    },
+    {
+        "id": 20,
+        "nombre": "Tortilla de espárragos amargueros",
+        "categoria": "Tortilla",
+        "precio": 8
+    },
+    {
+        "id": 21,
+        "nombre": "Tortilla de espárragos dulces",
+        "categoria": "Tortilla",
+        "precio": 8
+    },
+    {
+        "id": 22,
+        "nombre": "Tortilla de gambas",
+        "categoria": "Tortilla",
+        "precio": 9.50
+    },
+    {
+        "id": 23,
+        "nombre": "Tortilla de queso",
+        "categoria": "Tortilla",
+        "precio": 7.50
+    },
+    {
+        "id": 24,
+        "nombre": "Tortilla de atún",
+        "categoria": "Tortilla",
+        "precio": 7.50
+    },
+    {
+        "id": 25,
+        "nombre": "Tortilla de jamón",
+        "categoria": "Tortilla",
+        "precio": 7.50
+    },
+    {
+        "id": 26,
+        "nombre": "Tortilla de patatas",
+        "categoria": "Tortilla",
+        "precio": 7
+    },
+    {
+        "id": 27,
+        "nombre": "Tortilla especialidad de la casa (de todo)",
+        "categoria": "Tortilla",
+        "precio": 9.50
+    },
+    {
+        "id": 28,
+        "nombre": "Revuelto de tortilla de espárragos amargueros",
+        "categoria": "Revuelto de tortilla",
+        "precio": 8.50
+    },
+    {
+        "id": 29,
+        "nombre": "Revuelto de tortilla de espárragos dulces",
+        "categoria": "Revuelto de tortilla",
+        "precio": 8.50
+    },
+    {
+        "id": 30,
+        "nombre": "Revuelto de tortilla de gambas",
+        "categoria": "Revuelto de tortilla",
+        "precio": 9.50
+    },
+    {
+        "id": 31,
+        "nombre": "Revuelto de tortilla de patatas",
+        "categoria": "Revuelto de tortilla",
+        "precio": 8
+    },
+    {
+        "id": 32,
+        "nombre": "Tortilla especialidad de la casa (de todo)",
+        "categoria": "Revuelto de tortilla",
+        "precio": 9.50
+    },
+    {
+        "id": 33,
+        "nombre": "Filete de rosada (Frita o Plancha)",
+        "categoria": "Pescados y mariscos",
+        "precio": 12
+    },
+    {
+        "id": 34,
+        "nombre": "Pez espada a la plancha",
+        "categoria": "Pescados y mariscos",
+        "precio": 11
+    },
+    {
+        "id": 35,
+        "nombre": "Chopitos (Fritos o Plancha)",
+        "categoria": "Pescados y mariscos",
+        "precio": 9.50
+    },
+    {
+        "id": 36,
+        "nombre": "Gambas al pilpil",
+        "categoria": "Pescados y mariscos",
+        "precio": 9.50
+    },
+    {
+        "id": 37,
+        "nombre": "Gambas a la plancha",
+        "categoria": "Pescados y mariscos",
+        "precio": 9.50
+    },
+    {
+        "id": 38,
+        "nombre": "Gambas cocidas",
+        "categoria": "Pescados y mariscos",
+        "precio": 9.50
+    },
+    {
+        "id": 39,
+        "nombre": "Gambas rebozadas",
+        "categoria": "Pescados y mariscos",
+        "precio": 9.50
+    }
+]

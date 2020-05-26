@@ -1,0 +1,7 @@
+{
+  "name": "barancaraul",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
