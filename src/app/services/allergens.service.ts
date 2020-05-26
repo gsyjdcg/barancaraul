@@ -17,99 +17,99 @@ export class AllergensService {
       "id": "1",
       "name": "Pescado",
       "description": "Pescados blancos y rojos",
-      "color": "",
-      "icon": ""
+      "color": "pescado",
+      "icon": "assets/img/pescado.svg"
     },
     {
       "id": "2",
       "name": "Crustáceos",
       "description": "Crustáceos, mariscos",
-      "color": "",
-      "icon": ""
+      "color": "crustaceos",
+      "icon": "assets/img/pescado.svg"
     },
     {
       "id": "3",
       "name": "Apio",
       "description": "Apio",
-      "color": "",
-      "icon": ""
+      "color": "apio",
+      "icon": "assets/img/pescado.svg"
     },
     {
       "id": "4",
       "name": "Mostaza",
       "description": "Mostaza",
-      "color": "",
-      "icon": ""
+      "color": "mostaza",
+      "icon": "assets/img/pescado.svg"
     },
     {
       "id": "5",
       "name": "Huevos",
       "description": "Huevos",
-      "color": "",
-      "icon": ""
+      "color": "huevos",
+      "icon": "assets/img/pescado.svg"
     },
     {
       "id": "6",
       "name": "Sésamo",
       "description": "Semillas de sésamo",
-      "color": "",
-      "icon": ""
+      "color": "sesamo",
+      "icon": "assets/img/pescado.svg"
     },
     {
       "id": "7",
       "name": "Cereales con gluten",
       "description": "Cereales con gluten o trigo",
-      "color": "",
-      "icon": ""
+      "color": "gluten",
+      "icon": "assets/img/pescado.svg"
     },
     {
       "id": "8",
       "name": "Moluscos",
       "description": "Moluscos, caracoles",
-      "color": "",
-      "icon": ""
+      "color": "moluscos",
+      "icon": "assets/img/pescado.svg"
     },
     {
       "id": "9",
       "name": "Cacahuetes",
       "description": "Cacahuetes",
-      "color": "",
-      "icon": ""
+      "color": "cacahuetes",
+      "icon": "assets/img/pescado.svg"
     },
     {
       "id": "10",
       "name": "Altramuces",
       "description": "Altramuces",
-      "color": "",
-      "icon": ""
+      "color": "altramuces",
+      "icon": "assets/img/pescado.svg"
     },
     {
       "id": "11",
       "name": "Frutos secos",
       "description": "Frutos secos",
-      "color": "",
-      "icon": ""
+      "color": "frutos-secos",
+      "icon": "assets/img/pescado.svg"
     },
     {
       "id": "12",
       "name": "Lacteos",
       "description": "Lacteos",
-      "color": "",
-      "icon": ""
+      "color": "lacteos",
+      "icon": "assets/img/pescado.svg"
     },
     {
       "id": "13",
       "name": "Sulfitos",
       "description": "Sulfitos",
-      "color": "",
-      "icon": ""
+      "color": "sulfitos",
+      "icon": "assets/img/pescado.svg"
     },
     {
       "id": "14",
       "name": "Soja",
       "description": "Soja",
-      "color": "",
-      "icon": ""
+      "color": "soja",
+      "icon": "assets/img/pescado.svg"
     }
   ];
 
@@ -121,6 +121,16 @@ export class AllergensService {
 
     if (allergen) {
       return allergen.name;
+    } else {
+      return '';
+    }
+  }
+
+  getColorById(id: string): string {
+    const allergen = this.allergens.find(t => t.id === id);
+
+    if (allergen) {
+      return allergen.color;
     } else {
       return '';
     }

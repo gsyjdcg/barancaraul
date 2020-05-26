@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { TapasService, Tapa } from '../../../services/tapas.service';
 import { ActivatedRoute } from '@angular/router';
 import { TiposService } from 'src/app/services/tipos.service';
+import { AllergensService } from 'src/app/services/allergens.service';
 
 @Component({
   selector: 'app-tapas',
@@ -13,7 +14,8 @@ export class TapasPage {
 
   constructor(protected route: ActivatedRoute,
     public tapasService: TapasService,
-    protected tiposService: TiposService) {
+    protected tiposService: TiposService,
+    protected allergensService: AllergensService) {
 
     const tipo = this.route.snapshot.paramMap.get('tipo');
 

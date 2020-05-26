@@ -21,6 +21,17 @@
           <h1 class="ion-text-wrap">{{tapa.name}}</h1>
         </ion-text>
 
+        <!-- <ion-chip></ion-chip> -->
+
+        <ion-row *ngIf="tapa.allergens?.length">
+          <ion-col class="ion-text-wrap">
+            <ion-badge class="ion-margin-end" [class]="allergensService.getColorById(allergen)"
+              *ngFor="let allergen of tapa.allergens">
+              {{allergensService.getNameById(allergen)}}
+            </ion-badge>
+          </ion-col>
+        </ion-row>
+
         <p *ngIf="tapa?.price?.one">Ración: {{tapa.price.one | currency:'EUR':'symbol'}}
           <span *ngIf="tapa?.price?.half">
             / Media: {{tapa.price.half | currency:'EUR':'symbol'}}</span>
