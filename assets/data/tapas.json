@@ -1300,42 +1300,42 @@
     },
     {
         "id": "94",
-        "name": "Plúma ibérica de bellota (Acompañada con cuatro salsas)",
+        "name": "Tabla de plúma ibérica de bellota (Acompañada con cuatro salsas)",
         "image": "",
         "price": {
             "precio": 11
         },
-        "tipo": "tablas",
+        "tipo": "carne",
         "allergens": []
     },
     {
         "id": "95",
-        "name": "Secreto ibérico (Acompañada con cuatro salsas)",
+        "name": "Tabla de secreto ibérico (Acompañada con cuatro salsas)",
         "image": "",
         "price": {
             "precio": 10
         },
-        "tipo": "tablas",
+        "tipo": "carne",
         "allergens": []
     },
     {
         "id": "96",
-        "name": "Abanico ibérico (Acompañada con cuatro salsas)",
+        "name": "Tabla de abanico ibérico (Acompañada con cuatro salsas)",
         "image": "",
         "price": {
             "precio": 11
         },
-        "tipo": "tablas",
+        "tipo": "carne",
         "allergens": []
     },
     {
         "id": "97",
-        "name": "Presa ibérica (Acompañada con cuatro salsas)",
+        "name": "Tabla de presa ibérica (Acompañada con cuatro salsas)",
         "image": "",
         "price": {
             "precio": 12
         },
-        "tipo": "tablas",
+        "tipo": "carne",
         "allergens": []
     },
     {
@@ -1345,7 +1345,7 @@
         "price": {
             "precio": 9
         },
-        "tipo": "platos caseros",
+        "tipo": "carne",
         "allergens": [
             "12"
         ]
@@ -1357,7 +1357,7 @@
         "price": {
             "precio": 9
         },
-        "tipo": "platos caseros",
+        "tipo": "carne",
         "allergens": [
             "7",
             "12"
@@ -1370,7 +1370,7 @@
         "price": {
             "precio": 11
         },
-        "tipo": "platos caseros",
+        "tipo": "carne",
         "allergens": [
             "13"
         ]
