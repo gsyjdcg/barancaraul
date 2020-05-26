@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { TapasService, Tapa } from '../../../services/tapas.service';
+import { TapasService } from '../../../services/tapas.service';
 import { ActivatedRoute } from '@angular/router';
 import { TiposService } from 'src/app/services/tipos.service';
 import { AllergensService } from 'src/app/services/allergens.service';
