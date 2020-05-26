@@ -1,33 +1,33 @@
 import { Injectable } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
 
 export interface Tipo {
   id: string;
   name: string;
-  image?: string;
-  price: { one?: number, half?: number };
-  tipo: string;
-  allergens?: Array<string>;
 }
 
 @Injectable({
   providedIn: 'root'
 })
 export class TiposService {
-  tipos: Array<Tipo>;
+  tipos: Array<Tipo> = [
+    { id: 'carne', name: 'Carne' },
+    { id: 'pescado', name: 'Pescado' },
+    { id: 'otros', name: 'Otros' },
+    { id: 'tablas', name: 'Tablas' },
+    { id: 'bocadillos', name: 'Bocadillos' },
+    { id: 'especiales', name: 'Tapas Especiales' },
+  ];
 
-  constructor(protected http: HttpClient) {
+  constructor() {
   }
 
-  getDescripcion(id: string): void {
-    this.http.get('assets/data/tipos.json').subscribe(
-      (tipos: Array<Tipo>) => {
-        if (tipos?.length) {
-          this.tapas = tipos.find(t => t.id === id);
-        }
-      },
-      (error) => {
-        console.log(error);
-      });
+  getNameById(id: string): string {
+    const tipo = this.tipos.find(t => t.id === id);
+
+    if (tipo) {
+      return tipo.name;
+    } else {
+      return '';
+    }
   }
 }

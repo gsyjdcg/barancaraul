@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { TapasService, Tapa } from '../../../services/tapas.service';
 import { ActivatedRoute } from '@angular/router';
+import { TiposService } from 'src/app/services/tipos.service';
 
 @Component({
   selector: 'app-tapas',
@@ -8,12 +9,16 @@ import { ActivatedRoute } from '@angular/router';
   styleUrls: ['tapas.page.scss']
 })
 export class TapasPage {
-  constructor(protected route: ActivatedRoute,
-    public tapasService: TapasService) {
+  title: string;
 
-   const tipo = this.route.snapshot.paramMap.get('tipo');
+  constructor(protected route: ActivatedRoute,
+    public tapasService: TapasService,
+    protected tiposService: TiposService) {
+
+    const tipo = this.route.snapshot.paramMap.get('tipo');
 
     this.tapasService.load(tipo);
+    this.title = this.tiposService.getNameById(tipo);
   }
 
 

@@ -2,7 +2,7 @@
   <ion-toolbar color="app">
     <ion-img class="ion-margin-start" src="./assets/img/logo-header.svg" alt="" slot="start"></ion-img>
     <ion-title>
-      <ion-label class="ion-text-uppercase title">Tapas</ion-label>
+      <ion-label class="ion-text-uppercase title">{{title}}</ion-label>
     </ion-title>
   </ion-toolbar>
 </ion-header>
@@ -21,7 +21,14 @@
           <h1 class="ion-text-wrap">{{tapa.name}}</h1>
         </ion-text>
 
-        <p *ngIf="tapa?.price?.one">Ración: {{tapa.price.one | currency:'EUR':'symbol'}}<span *ngIf="tapa?.price?.half"> / Media: {{tapa.price.half | currency:'EUR':'symbol'}}</span></p>
+        <p *ngIf="tapa?.price?.one">Ración: {{tapa.price.one | currency:'EUR':'symbol'}}
+          <span *ngIf="tapa?.price?.half">
+            / Media: {{tapa.price.half | currency:'EUR':'symbol'}}</span>
+          <span *ngIf="tapa?.price?.tapa"> / Tapa:
+            {{tapa.price.tapa | currency:'EUR':'symbol'}}</span>
+        </p>
+
+        <p *ngIf="tapa?.price?.precio">{{tapa.price.precio | currency:'EUR':'symbol'}}</p>
       </ion-label>
     </ion-item>
   </ion-list>

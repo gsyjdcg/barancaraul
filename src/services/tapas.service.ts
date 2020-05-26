@@ -5,7 +5,7 @@ export interface Tapa {
   id: string;
   name: string;
   image?: string;
-  price: { one?: number, half?: number };
+  price: { one?: number, half?: number, tapa?: number, precio?: number };
   tipo: string;
   allergens?: Array<string>;
 }

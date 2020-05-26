@@ -651,7 +651,7 @@
             "half": 5.50,
             "one": 7.50
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "5"
         ]
@@ -665,7 +665,7 @@
             "half": 5.50,
             "one": 7.50
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "2",
             "5"
@@ -680,7 +680,7 @@
             "half": 5,
             "one": 7
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "7"
         ]
@@ -694,7 +694,7 @@
             "half": 6.5,
             "one": 8.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "2",
             "7",
@@ -710,7 +710,7 @@
             "half": 6.5,
             "one": 8.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "2",
             "7",
@@ -726,7 +726,7 @@
             "half": 6.5,
             "one": 8.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "13"
         ]
@@ -740,7 +740,7 @@
             "half": 6.5,
             "one": 8.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": []
     },
     {
@@ -752,7 +752,7 @@
             "half": 6.5,
             "one": 8.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "13"
         ]
@@ -766,7 +766,7 @@
             "half": 4.5,
             "one": 6.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": []
     },
     {
@@ -778,7 +778,7 @@
             "half": 6.5,
             "one": 8.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "7",
             "12"
@@ -793,7 +793,7 @@
             "half": 6.5,
             "one": 8.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "12"
         ]
@@ -807,7 +807,7 @@
             "half": 5,
             "one": 7
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "12"
         ]
@@ -821,7 +821,7 @@
             "half": 5.5,
             "one": 8.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "7",
             "12"
@@ -840,7 +840,7 @@
             "half": 4.5,
             "one": 6.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": []
     },
     {
@@ -856,7 +856,7 @@
             "half": 4.5,
             "one": 6.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "8"
         ]
@@ -870,7 +870,7 @@
             "half": 5.5,
             "one": 8.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "12"
         ]
@@ -884,7 +884,7 @@
             "half": 6.5,
             "one": 8.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "12"
         ]
@@ -898,7 +898,7 @@
             "half": 6.5,
             "one": 8.5
         },
-        "tipo": "ni carne ni pescado",
+        "tipo": "otros",
         "allergens": [
             "7"
         ]
