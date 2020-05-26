@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1590529256641,
+  "timestamp": 1590529560494,
   "index": "https://gsyjdcg.github.io/barancaraul/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://gsyjdcg.github.io/barancaraul/16-es2015.6bd254d6d27a4c9ff936.js",
         "https://gsyjdcg.github.io/barancaraul/16-es5.6bd254d6d27a4c9ff936.js",
-        "https://gsyjdcg.github.io/barancaraul/17-es2015.a26d7b8fa5e86f5e8868.js",
-        "https://gsyjdcg.github.io/barancaraul/17-es5.a26d7b8fa5e86f5e8868.js",
+        "https://gsyjdcg.github.io/barancaraul/17-es2015.2f498bd81730e97ce449.js",
+        "https://gsyjdcg.github.io/barancaraul/17-es5.2f498bd81730e97ce449.js",
         "https://gsyjdcg.github.io/barancaraul/18-es2015.6f46a09387959d396aee.js",
         "https://gsyjdcg.github.io/barancaraul/18-es5.6f46a09387959d396aee.js",
         "https://gsyjdcg.github.io/barancaraul/19-es2015.d2e311171671cd4773d8.js",
@@ -196,8 +196,8 @@
         "https://gsyjdcg.github.io/barancaraul/polyfills-dom-es5.87674c2ba31dd21500f3.js",
         "https://gsyjdcg.github.io/barancaraul/polyfills-es2015.f4d09162f068ef1dd55d.js",
         "https://gsyjdcg.github.io/barancaraul/polyfills-es5.befa4caa6291a171b67f.js",
-        "https://gsyjdcg.github.io/barancaraul/runtime-es2015.15cae4a1b5b5f9305f94.js",
-        "https://gsyjdcg.github.io/barancaraul/runtime-es5.15cae4a1b5b5f9305f94.js",
+        "https://gsyjdcg.github.io/barancaraul/runtime-es2015.e8950ccdc44598002af8.js",
+        "https://gsyjdcg.github.io/barancaraul/runtime-es5.e8950ccdc44598002af8.js",
         "https://gsyjdcg.github.io/barancaraul/styles.a7e27eca22df239babf0.css"
       ],
       "patterns": []
@@ -243,8 +243,8 @@
   "hashTable": {
     "https://gsyjdcg.github.io/barancaraul/16-es2015.6bd254d6d27a4c9ff936.js": "1b1985265a378bd0936db0678c5d418626665b08",
     "https://gsyjdcg.github.io/barancaraul/16-es5.6bd254d6d27a4c9ff936.js": "fd0366ef0e5b0d40007093861035f12622b19334",
-    "https://gsyjdcg.github.io/barancaraul/17-es2015.a26d7b8fa5e86f5e8868.js": "8e5e6787d0db21214a1d716b447bfd7a5af64cbc",
-    "https://gsyjdcg.github.io/barancaraul/17-es5.a26d7b8fa5e86f5e8868.js": "ee85a842755530e29e84587ac8c9144ce06912c4",
+    "https://gsyjdcg.github.io/barancaraul/17-es2015.2f498bd81730e97ce449.js": "cbd0202406e8fa4438a257abdd411828e856d0aa",
+    "https://gsyjdcg.github.io/barancaraul/17-es5.2f498bd81730e97ce449.js": "a4452f4f55afbec0748358f6322801d8c73f3081",
     "https://gsyjdcg.github.io/barancaraul/18-es2015.6f46a09387959d396aee.js": "ebd578e0fc2797825aa6d4d4d3737a4e89e194db",
     "https://gsyjdcg.github.io/barancaraul/18-es5.6f46a09387959d396aee.js": "32951c95a022e13a3d2a11cdf6a42cdfd27d4530",
     "https://gsyjdcg.github.io/barancaraul/19-es2015.d2e311171671cd4773d8.js": "d8ada65420451f83924d4142f6e660065034e3db",
@@ -445,7 +445,7 @@
     "https://gsyjdcg.github.io/barancaraul/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "https://gsyjdcg.github.io/barancaraul/common-es2015.0d05269b119005e7fe92.js": "ede6c6f3aee5e3b3a2f121c30fd8f40fabbdcd52",
     "https://gsyjdcg.github.io/barancaraul/common-es5.0d05269b119005e7fe92.js": "4e76339cb2cf9e58ec58a7ee9109cbbd546359a2",
-    "https://gsyjdcg.github.io/barancaraul/index.html": "8c28795e73a82eb40d62f5cc9943b00570ad121b",
+    "https://gsyjdcg.github.io/barancaraul/index.html": "0838c71db8503d15c07627c90701376311609739",
     "https://gsyjdcg.github.io/barancaraul/main-es2015.93434d19160266473567.js": "e89bb25a0f4cd6b733b181a51970d8c68152da4d",
     "https://gsyjdcg.github.io/barancaraul/main-es5.93434d19160266473567.js": "c2d310a9bfaf0665558f6181c389e6d1c1e8088a",
     "https://gsyjdcg.github.io/barancaraul/manifest.webmanifest": "34efdc5a40da11ea93b83a88b908e5298b2f3f56",
@@ -457,8 +457,8 @@
     "https://gsyjdcg.github.io/barancaraul/polyfills-dom-es5.87674c2ba31dd21500f3.js": "7ab2cd6b4effdffaeb2371d57c1a420827298dd6",
     "https://gsyjdcg.github.io/barancaraul/polyfills-es2015.f4d09162f068ef1dd55d.js": "06890b8ad7d099069b6e73dc73f64cb685f7b1fd",
     "https://gsyjdcg.github.io/barancaraul/polyfills-es5.befa4caa6291a171b67f.js": "3e12f1d12795e4d176ea8339b9544c1355a6f918",
-    "https://gsyjdcg.github.io/barancaraul/runtime-es2015.15cae4a1b5b5f9305f94.js": "7050bbc30a888ff147464631ff4a3bcc6226686c",
-    "https://gsyjdcg.github.io/barancaraul/runtime-es5.15cae4a1b5b5f9305f94.js": "e57ba09331b494e3ad2e797e67bf7eb1a2fb7a47",
+    "https://gsyjdcg.github.io/barancaraul/runtime-es2015.e8950ccdc44598002af8.js": "3b0cfb29ecc1d069da743bf15c6101eacc11fa49",
+    "https://gsyjdcg.github.io/barancaraul/runtime-es5.e8950ccdc44598002af8.js": "e2b454c6ac1f39c56b544857d3ee8726b16b194e",
     "https://gsyjdcg.github.io/barancaraul/styles.a7e27eca22df239babf0.css": "8c071bd1102831d5103144122d90649dfab939ba"
   },
   "navigationUrls": [
