@@ -12,7 +12,7 @@ export class TiposService {
   tipos: Array<Tipo> = [
     { id: 'carne', name: 'Carne' },
     { id: 'pescado', name: 'Pescado' },
-    { id: 'otros', name: 'Ni carne ni pescado' },
+    { id: 'otros', name: 'Otros' },
     { id: 'bocadillos', name: 'Bocadillos' },
     { id: 'especiales', name: 'Tapas Especiales' },
   ];
