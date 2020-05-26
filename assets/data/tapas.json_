@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "nombre": "Lasaña casera",
+        "precio": 2
+    },
+    {
+        "id": 2,
+        "nombre": "Carne en salsa",
+        "precio": 2
+    },
+    {
+        "id": 3,
+        "nombre": "Carne con tomate",
+        "precio": 2
+    },
+    {
+        "id": 4,
+        "nombre": "Menudillo de pollo",
+        "precio": 2
+    },
+    {
+        "id": 5,
+        "nombre": "Albóndigas con tomate",
+        "precio": 2
+    },
+    {
+        "id": 6,
+        "nombre": "Chorizo al vino",
+        "precio": 2
+    },
+    {
+        "id": 7,
+        "nombre": "Migas caseras de pan",
+        "precio": 2
+    },
+    {
+        "id": 8,
+        "nombre": "Callos con garbanzos",
+        "precio": 2
+    },
+    {
+        "id": 9,
+        "nombre": "Porra con huevo y jamón",
+        "precio": 2
+    },
+    {
+        "id": 10,
+        "nombre": "Pimientos asados",
+        "precio": 2
+    },
+    {
+        "id": 11,
+        "nombre": "Ensaladilla rusa",
+        "precio": 2
+    },
+    {
+        "id": 12,
+        "nombre": "Ensaladilla de marisco",
+        "precio": 2
+    },
+    {
+        "id": 13,
+        "nombre": "Pincho de caballa",
+        "precio": 2
+    },
+    {
+        "id": 14,
+        "nombre": "Mini hamburgesa",
+        "precio": 2
+    },
+    {
+        "id": 15,
+        "nombre": "Mini San Jacobo",
+        "precio": 2
+    },
+    {
+        "id": 16,
+        "nombre": "Mini flamenquín",
+        "precio": 2
+    },
+    {
+        "id": 17,
+        "nombre": "Mitad y midad de jamón y queso",
+        "precio": 2
+    }
+]

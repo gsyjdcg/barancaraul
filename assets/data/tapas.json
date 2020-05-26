@@ -1,0 +1,1378 @@
+[
+    {
+        "id": "1",
+        "name": "Filete con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Filete con huevo y patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "5",
+            "7"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Filete con queso y patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Filete con pimientos y patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Filete a los cinco quesos con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "5",
+            "7"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Guarrito con huevo y patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Guarrito con queso y patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Guarrito con pimientos y patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "5",
+            "7"
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Panceta con huevo y patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Panceta con pimientos y patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Panceta ibérica fresca",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Chorizo a la plancha con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "13"
+        ]
+    },
+    {
+        "id": "13",
+        "name": "Chorizo al vino con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": []
+    },
+    {
+        "id": "14",
+        "name": "Pinchito de pollo con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7",
+            "13"
+        ]
+    },
+    {
+        "id": "15",
+        "name": "Salchichas frescas a la plancha con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7",
+            "13"
+        ]
+    },
+    {
+        "id": "16",
+        "name": "Salchichas con tomate napolitano con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "17",
+        "name": "Menudillo de pollo con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "18",
+        "name": "Mini flamenquines caseros con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7",
+            "13"
+        ]
+    },
+    {
+        "id": "19",
+        "name": "Mini san jacobo con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "20",
+        "name": "Hamburguesita con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7",
+            "13"
+        ]
+    },
+    {
+        "id": "21",
+        "name": "Albóndigas con tomate y patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7",
+            "13"
+        ]
+    },
+    {
+        "id": "22",
+        "name": "Carne a los cinco quesos con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "23",
+        "name": "Carne con salsa de chanpiñones y patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "24",
+        "name": "Pollo al chino",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "25",
+        "name": "Pollo grand manierd",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "26",
+        "name": "Fingers de pollo con aliño marroquí y patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "27",
+        "name": "Pajarilla",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": []
+    },
+    {
+        "id": "28",
+        "name": "Salchicha encebollada",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "29",
+        "name": "Puntillitas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "7",
+            "13"
+        ]
+    },
+    {
+        "id": "30",
+        "name": "Chopitos a la plancha o fritos con lechuga y tomate",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "31",
+        "name": "Boquerones a la plancha o fritos con lechuga y tomate",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "7",
+            "13"
+        ]
+    },
+    {
+        "id": "32",
+        "name": "Rosada a la plancha o fritos con lechuga y tomate",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "7",
+            "13"
+        ]
+    },
+    {
+        "id": "33",
+        "name": "Bacalao a la plancha o fritos con lechuga y tomate",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "7",
+            "13"
+        ]
+    },
+    {
+        "id": "34",
+        "name": "Almejas al ajillo",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "7",
+            "13"
+        ]
+    },
+    {
+        "id": "35",
+        "name": "Capirote de gambas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "2",
+            "7"
+        ]
+    },
+    {
+        "id": "36",
+        "name": "Conchas finas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": []
+    },
+    {
+        "id": "37",
+        "name": "Gambas a la plancha",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "2"
+        ]
+    },
+    {
+        "id": "38",
+        "name": "Gambas cocidas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "2"
+        ]
+    },
+    {
+        "id": "39",
+        "name": "Chanquetes",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "40",
+        "name": "Brocheta de gambas a la plancha",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "2"
+        ]
+    },
+    {
+        "id": "41",
+        "name": "Anchoas en vinagre de la casa",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": []
+    },
+    {
+        "id": "42",
+        "name": "Mejillones rellenos",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "2",
+            "7"
+        ]
+    },
+    {
+        "id": "43",
+        "name": "Pulpo Bar an ca Raúl",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "2",
+            "7"
+        ]
+    },
+    {
+        "id": "44",
+        "name": "Langostinos cocidos",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "2"
+        ]
+    },
+    {
+        "id": "45",
+        "name": "Langostinos a la plancha",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 9
+        },
+        "tipo": "pescado",
+        "allergens": [
+            "2"
+        ]
+    },
+    {
+        "id": "46",
+        "name": "Ensaladilla rusa",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.50,
+            "one": 7.50
+        },
+        "tipo": "otros",
+        "allergens": [
+            "5"
+        ]
+    },
+    {
+        "id": "47",
+        "name": "Ensaladilla de marisco",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.50,
+            "one": 7.50
+        },
+        "tipo": "otros",
+        "allergens": [
+            "2",
+            "5"
+        ]
+    },
+    {
+        "id": "48",
+        "name": "Patatas bravas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5,
+            "one": 7
+        },
+        "tipo": "otros",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "49",
+        "name": "Croquetas casera de puchero",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 8.5
+        },
+        "tipo": "otros",
+        "allergens": [
+            "2",
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "50",
+        "name": "Croquetas de gambas al pil-pil",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 8.5
+        },
+        "tipo": "otros",
+        "allergens": [
+            "2",
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "51",
+        "name": "Callos",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 8.5
+        },
+        "tipo": "otros",
+        "allergens": [
+            "13"
+        ]
+    },
+    {
+        "id": "52",
+        "name": "Setas a la plancha con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 8.5
+        },
+        "tipo": "otros",
+        "allergens": []
+    },
+    {
+        "id": "53",
+        "name": "Champiñones a la plancha con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 8.5
+        },
+        "tipo": "otros",
+        "allergens": [
+            "13"
+        ]
+    },
+    {
+        "id": "54",
+        "name": "Pimientos fritos",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 4.5,
+            "one": 6.5
+        },
+        "tipo": "otros",
+        "allergens": []
+    },
+    {
+        "id": "55",
+        "name": "Bomba con patatas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 8.5
+        },
+        "tipo": "otros",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "56",
+        "name": "Queso",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 8.5
+        },
+        "tipo": "otros",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "57",
+        "name": "Queso provolone en salsa de tomate italiano",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5,
+            "one": 7
+        },
+        "tipo": "otros",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "58",
+        "name": "Patatas con beicon y queso",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "otros",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "59",
+        "name": "Pipirrana",
+        "image": "",
+        "temporada": [
+            "primavera",
+            "verano"
+        ],
+        "price": {
+            "tapa": 1,
+            "half": 4.5,
+            "one": 6.5
+        },
+        "tipo": "otros",
+        "allergens": []
+    },
+    {
+        "id": "60",
+        "name": "Picadillo de pulpo",
+        "image": "",
+        "temporada": [
+            "primavera",
+            "verano"
+        ],
+        "price": {
+            "tapa": 1,
+            "half": 4.5,
+            "one": 6.5
+        },
+        "tipo": "otros",
+        "allergens": [
+            "8"
+        ]
+    },
+    {
+        "id": "61",
+        "name": "Patatas con kebak y salsa de yogur",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 5.5,
+            "one": 8.5
+        },
+        "tipo": "otros",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "62",
+        "name": "Patatas con salsa de champiñones y setas",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 8.5
+        },
+        "tipo": "otros",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "63",
+        "name": "Berenjenas con miel de caña",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6.5,
+            "one": 8.5
+        },
+        "tipo": "otros",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "64",
+        "name": "Montadito (Filete y queso)",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "bocadillos",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "65",
+        "name": "Serranito (Jamón, pimiento y lomo)",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "bocadillos",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "66",
+        "name": "Piraña (Lomo, queso, tortilla y pimiento)",
+        "image": "",
+        "price": {
+            "precio": 3.5
+        },
+        "tipo": "bocadillos",
+        "allergens": [
+            "5",
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "67",
+        "name": "Serra pollo (Jamón, pimiento y pollo)",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "bocadillos",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "68",
+        "name": "Calimero (Tortilla francesa, filete y queso)",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "bocadillos",
+        "allergens": [
+            "5",
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "69",
+        "name": "Vegetal (Huevo duro, lechuga, atún y mahonesa)",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "bocadillos",
+        "allergens": [
+            "5",
+            "7"
+        ]
+    },
+    {
+        "id": "70",
+        "name": "Porky (Guarrito con queso)",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "bocadillos",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "71",
+        "name": "Peggy (Panceta ibérica con pimiento)",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tags": [
+            "bocadillos"
+        ],
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "72",
+        "name": "Kebab (Kebab de pollo, lechuga, tomate y salsa yogur)",
+        "image": "",
+        "price": {
+            "precio": 3.5
+        },
+        "tipo": "bocadillos",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "73",
+        "name": "Levando anclas (Chopitos con mahonesa y ensalada)",
+        "image": "",
+        "price": {
+            "precio": 3.5
+        },
+        "tipo": "bocadillos",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "74",
+        "name": "Deluxe (Sobrasada mallorquina casera, tortilla francesa y pimiento)",
+        "image": "",
+        "price": {
+            "precio": 3.5
+        },
+        "tipo": "bocadillos",
+        "allergens": [
+            "5",
+            "7",
+            "13"
+        ]
+    },
+    {
+        "id": "75",
+        "name": "Tibidabo (Jamón serrano, tomate y aceite)",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "bocadillos",
+        "allergens": [
+            "7"
+        ]
+    },
+    {
+        "id": "76",
+        "name": "A lo bestia (Lomo, tortilla francesa, queso, pimiento, jamón serrano, guarrito y mahonesa)",
+        "image": "",
+        "price": {
+            "precio": 4.5
+        },
+        "tipo": "bocadillos",
+        "allergens": [
+            "5",
+            "7",
+            "12",
+            "13"
+        ]
+    },
+    {
+        "id": "101",
+        "name": "Hamburguesa de buey al gusto",
+        "image": "",
+        "price": {
+            "precio": 3.8
+        },
+        "tipo": "bocadillos",
+        "allergens": []
+    },
+    {
+        "id": "102",
+        "name": "Hamburguesa crispy chicken",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "bocadillos",
+        "allergens": []
+    },
+    {
+        "id": "77",
+        "name": "Cazuela de Chorizo, huevo, patatas y pimiento",
+        "image": "",
+        "price": {
+            "precio": 2.5
+        },
+        "tipo": "especial",
+        "allergens": [
+            "5",
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "78",
+        "name": "Cazuela de salchichas frescas, huevo, pimiento y patatas",
+        "image": "",
+        "price": {
+            "precio": 2.5
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "5",
+            "13"
+        ]
+    },
+    {
+        "id": "79",
+        "name": "Cazuela de setas, huevo y patatas",
+        "image": "",
+        "price": {
+            "precio": 2.5
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "5"
+        ]
+    },
+    {
+        "id": "80",
+        "name": "Croquetas de puchero con virutas de jamón y patatas fritas",
+        "image": "",
+        "price": {
+            "precio": 2.5
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "81",
+        "name": "Rodillo de carne en salsa blanca de almendra o salsa a los cinco quesos",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "11",
+            "12"
+        ]
+    },
+    {
+        "id": "82",
+        "name": "Chiribiri (Revuelto de chanquetes con huevo de codorniz)",
+        "image": "",
+        "price": {
+            "precio": 2.5
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "5",
+            "12"
+        ]
+    },
+    {
+        "id": "83",
+        "name": "Ibérica serrana (Panceta ibérica, huevo de codorniz, chorizo y pimiento",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "5",
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "84",
+        "name": "Rulo de cabra con berenjenas, mermelada de fresa y miel de caña",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "5",
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "85",
+        "name": "Pernales",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "86",
+        "name": "Mont Blanc",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "87",
+        "name": "Tira de presa ibérica",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "88",
+        "name": "Rulo de cabra 3.0 (Rulo de cabra, cebolla frita, jamón y pan rústico)",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "89",
+        "name": "Presa ibérica con lámina de jamón, pmiento frito y patatas)",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "especiales",
+        "allergens": []
+    },
+    {
+        "id": "90",
+        "name": "Ravioli de champiñones y setas en salsa reina",
+        "image": "",
+        "price": {
+            "precio": 2.5
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "11",
+            "12"
+        ]
+    },
+    {
+        "id": "91",
+        "name": "Iglú",
+        "image": "",
+        "price": {
+            "precio": 2.5
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "93",
+        "name": "Tritapa (Combina tus carnes, pescados o tus fritos favoritos)",
+        "image": "",
+        "price": {
+            "precio": 3
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "94",
+        "name": "Plúma ibérica de bellota (Acompañada con cuatro salsas)",
+        "image": "",
+        "price": {
+            "precio": 11
+        },
+        "tipo": "tablas",
+        "allergens": []
+    },
+    {
+        "id": "95",
+        "name": "Secreto ibérico (Acompañada con cuatro salsas)",
+        "image": "",
+        "price": {
+            "precio": 10
+        },
+        "tipo": "tablas",
+        "allergens": []
+    },
+    {
+        "id": "96",
+        "name": "Abanico ibérico (Acompañada con cuatro salsas)",
+        "image": "",
+        "price": {
+            "precio": 11
+        },
+        "tipo": "tablas",
+        "allergens": []
+    },
+    {
+        "id": "97",
+        "name": "Presa ibérica (Acompañada con cuatro salsas)",
+        "image": "",
+        "price": {
+            "precio": 12
+        },
+        "tipo": "tablas",
+        "allergens": []
+    },
+    {
+        "id": "98",
+        "name": "Flamenquín casero",
+        "image": "",
+        "price": {
+            "precio": 9
+        },
+        "tipo": "platos caseros",
+        "allergens": [
+            "12"
+        ]
+    },
+    {
+        "id": "99",
+        "name": "San jacobo casero",
+        "image": "",
+        "price": {
+            "precio": 9
+        },
+        "tipo": "platos caseros",
+        "allergens": [
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "100",
+        "name": "Carrillada ibérica de la casa",
+        "image": "",
+        "price": {
+            "precio": 11
+        },
+        "tipo": "platos caseros",
+        "allergens": [
+            "13"
+        ]
+    }
+]
