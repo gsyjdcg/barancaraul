@@ -15,7 +15,7 @@ export class TapasPage {
   constructor(protected route: ActivatedRoute,
     public tapasService: TapasService,
     protected tiposService: TiposService,
-    protected allergensService: AllergensService) {
+    public allergensService: AllergensService) {
 
     const tipo = this.route.snapshot.paramMap.get('tipo');
 
