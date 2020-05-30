@@ -22,30 +22,4 @@ export class TapasPage {
     this.tapasService.load(tipo);
     this.title = this.tiposService.getNameById(tipo);
   }
-
-
-  //   ngOnInit(): void {
-  //   // Comprobar si se han pasado el identificador de la playa
-
-  //   const playaId = this.route.snapshot.paramMap.get('playaId');
-
-  //   if (playaId) {
-  //     this.filtrosObligatorios = { playaId };
-
-  //     this.playaService.getDatosPlayaById(playaId).then(result => {
-  //       this.playa = result
-
-  //       if (this.playa) {
-  //         this.center = {
-  //           lat: this.playa?.mapa?.localizacion?.lat,
-  //           lng: this.playa?.mapa?.localizacion?.lng
-  //         };
-
-  //         this.zoom = this.playa?.mapa?.zoom;
-  //       }
-  //     }).catch(ex => {
-  //       this.toastService.open({ message: this.error.getError(ex) })
-  //     });
-  //   }
-  // }
 }
