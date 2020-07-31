@@ -1138,7 +1138,7 @@
         "name": "Croquetas de puchero con virutas de jamón y patatas fritas",
         "image": "",
         "price": {
-            "precio": 2.5
+            "precio": 3
         },
         "tipo": "especiales",
         "allergens": [
@@ -1255,7 +1255,7 @@
         "name": "Presa ibérica con lámina de jamón, pmiento frito y patatas)",
         "image": "",
         "price": {
-            "precio": 3
+            "precio": 3.5
         },
         "tipo": "especiales",
         "allergens": []
@@ -1374,5 +1374,32 @@
         "allergens": [
             "13"
         ]
+    },
+    {
+        "id": "200",
+        "name": "Coquinas",
+        "image": "",
+        "price": {
+            "precio": 5
+        },
+        "tipo": "especiales"
+    },
+    {
+        "id": "201",
+        "name": "Patas de pulpo",
+        "image": "",
+        "price": {
+            "precio": 4.5
+        },
+        "tipo": "especiales"
+    },
+    {
+        "id": "202",
+        "name": "Coquinas",
+        "image": "",
+        "price": {
+            "one": 10
+        },
+        "tipo": "pescado"
     }
 ]
