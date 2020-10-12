@@ -30,5 +30,5 @@ export class TapasService {
       (error: any) => {
         console.log(error);
       });
-  };
+  }
 }
