@@ -92,8 +92,8 @@ export class AllergensService {
     },
     {
       id: '12',
-      name: 'Lacteos',
-      description: 'Lacteos',
+      name: 'Lácteos',
+      description: 'Lácteos',
       color: 'lacteos',
       icon: 'assets/img/pescado.svg'
     },
