@@ -1,12 +1,11 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { map } from 'rxjs/operators';
 
 export interface Tapa {
   id: string;
   name: string;
   image?: string;
-  price: { one?: number, half?: number, tapa?: number, precio?: number };
+  price: { one?: number; half?: number; tapa?: number; precio?: number };
   tipo: string;
   allergens?: Array<string>;
 }
