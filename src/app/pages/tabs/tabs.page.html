@@ -1,26 +1,29 @@
 <ion-tabs>
   <ion-tab-bar slot="bottom" color="app">
-    <ion-tab-button tab="tapas/carne">
+    <ion-tab-button tab="tapas/carne" (click)="setSelectedTab('carne')" [ngClass]="{selected: selected === 'carne'} ">
       <ion-icon size="large" src="assets/img/carne.svg"></ion-icon>
       <ion-label>Carne</ion-label>
     </ion-tab-button>
 
-    <ion-tab-button tab="tapas/pescado">
-       <ion-icon size="large" src="assets/img/pescado.svg"></ion-icon>
+    <ion-tab-button tab="tapas/pescado" (click)="setSelectedTab('pescado')"
+      [ngClass]="{selected: selected === 'pescado'} ">
+      <ion-icon size="large" src="assets/img/pescado.svg"></ion-icon>
       <ion-label>Pescado</ion-label>
     </ion-tab-button>
 
-    <ion-tab-button tab="tapas/otros">
+    <ion-tab-button tab="tapas/otros" (click)="setSelectedTab('otros')" [ngClass]="{selected: selected === 'otros'} ">
       <ion-icon size="large" src="assets/img/vegetal.svg"></ion-icon>
       <ion-label>Otros</ion-label>
     </ion-tab-button>
 
-    <ion-tab-button tab="tapas/bocadillos">
+    <ion-tab-button tab="tapas/bocadillos" (click)="setSelectedTab('bocadillos')"
+      [ngClass]="{selected: selected === 'bocadillos'} ">
       <ion-icon size="large" src="assets/img/hamburguesa.svg"></ion-icon>
       <ion-label>Bocadillos</ion-label>
     </ion-tab-button>
 
-    <ion-tab-button tab="tapas/especiales">
+    <ion-tab-button tab="tapas/especiales" (click)="setSelectedTab('especiales')"
+      [ngClass]="{selected: selected === 'especiales'} ">
       <ion-icon size="large" src="assets/img/cerveza.svg"></ion-icon>
       <ion-label>Especiales</ion-label>
     </ion-tab-button>
