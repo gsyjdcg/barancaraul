@@ -1252,7 +1252,7 @@
     },
     {
         "id": "89",
-        "name": "Presa ibérica con lámina de jamón, pmiento frito y patatas)",
+        "name": "Presa ibérica con lámina de jamón, pimiento frito y patatas)",
         "image": "",
         "price": {
             "precio": 3.5
@@ -1389,7 +1389,7 @@
         "name": "Patas de pulpo",
         "image": "",
         "price": {
-            "precio": 4.5
+            "precio": 8
         },
         "tipo": "especiales"
     },
@@ -1401,5 +1401,105 @@
             "one": 10
         },
         "tipo": "pescado"
+    },
+    {
+        "id": "203",
+        "name": "Carrillada ibérica al Pedro Jiménez",
+        "image": "",
+        "price": {
+            "precio": 11
+        },
+        "tipo": "carne",
+        "allergens": [
+            "12",
+            "13"
+        ]
+    },
+    {
+        "id": "204",
+        "name": "Lomo en salsa de almendras",
+        "image": "",
+        "price": {
+            "precio": 10.50
+        },
+        "tipo": "carne",
+        "allergens": [
+            "12",
+            "13"
+        ]
+    },
+    {
+        "id": "205",
+        "name": "Tortillitas de camarones",
+        "image": "",
+        "price": {
+            "tapa": 1,
+            "half": 6,
+            "one": 8
+        },
+        "tipo": "otros",
+        "allergens": [
+            "2",
+            "5",
+            "7"
+        ]
+    },
+    {
+        "id": "206",
+        "name": "Variado de croquetas caseras",
+        "image": "",
+        "price": {
+            "precio": 3.50
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "2",
+            "7",
+            "12"
+        ]
+    },
+    {
+        "id": "207",
+        "name": "Couland de chocolate blanco con helado de vainilla",
+        "image": "",
+        "price": {
+            "precio": 4.00
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "5",
+            "12",
+            "13",
+            "14"
+        ]
+    },
+    {
+        "id": "208",
+        "name": "Couland de chocolate negro con helado de vainilla",
+        "image": "",
+        "price": {
+            "precio": 4.00
+        },
+        "tipo": "especiales",
+        "allergens": [
+            "5",
+            "12",
+            "13",
+            "14"
+        ]
+    },
+    {
+        "id": "209",
+        "name": "Flamenquín relleno de salsa carbonara",
+        "image": "",
+        "price": {
+            "precio": 5
+        },
+        "tipo": "carne",
+        "allergens": [
+            "7",
+            "12",
+            "13"
+        ]
     }
 ]
