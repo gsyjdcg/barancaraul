@@ -1,13 +1,1 @@
-{
-  "appId": "www.barancaraul.com",
-  "appName": "barancaraul",
-  "bundledWebRuntime": false,
-  "npmClient": "npm",
-  "webDir": "www",
-  "plugins": {
-    "SplashScreen": {
-      "launchShowDuration": 0
-    }
-  },
-  "cordova": {}
-}
+{}
